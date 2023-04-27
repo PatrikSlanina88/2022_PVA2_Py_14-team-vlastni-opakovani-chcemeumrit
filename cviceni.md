@@ -12,3 +12,5 @@ Vytvořte si náhodné proměnné zboží, a vpište do nich kolik ks jich je.
 Pokud je na skladě pod 10 ks, vypište "potřeba doplnění".
 Pod 30 ks "Příprava na doplnění".
 Nad 30 ks "Dostatek zboží"
+
+### 3 
